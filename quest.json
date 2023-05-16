@@ -1,7 +1,7 @@
 {
      "ip": [
           {
-               "name": "#4219-TEST",
+               "name": "#4219",
                "version": "2.2.0",
                "id": "45.90.161.14",
                "keys": "MRB:GS5112T"
@@ -82,7 +82,8 @@
                "name": "SS",
                "version": "2.2.0",
                "id": "171.100.91.230",
-               "keys": "MRB:GS5112T"
+               "keys": "MRB:GS5112T",
+               "DLC": true
           },
           {
                "name": "Me",
