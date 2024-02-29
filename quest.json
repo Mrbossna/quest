@@ -1,148 +1,148 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "ip": [
     {
       "name": "SS",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "171.100.91.163",
       "keys": "MRB:GS5112T",
       "DLC": false
     },
     {
       "name": "#4219",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "154.215.14.82",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "#4219",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "45.90.161.14",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "#4219",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "103.13.28.79",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "#7008",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "147.50.252.76",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "#7008",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "140.99.96.95",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "#7008",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "140.99.96.93",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "119.76.46.156",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "140.99.96.71",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "119.76.46.5",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "147.50.229.49",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "140.99.96.88",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "191.96.93.156",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "147.50.252.76",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "49.231.43.222",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "183.89.221.171",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "103.131.200.67",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "147.50.229.8",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "154.208.140.106",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "154.208.140.86",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "140.99.96.102",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "43.229.133.93",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "123.253.61.95",
       "keys": "MRB:GS5112T"
     },
     {
       "name": "Me",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "45.150.128.69",
       "keys": "MRB:GS5112T"
     },
@@ -171,11 +171,11 @@
       "name": "Me",
       "id": "77",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "MY-SS",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "id": "103.167.193.61",
       "keys": "MRB:GS5112T"
     },
@@ -183,55 +183,55 @@
       "name": "Me",
       "id": "154.197.124.153",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "191.96.93.6",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "103.30.126.146",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "191.96.92.78",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "141.98.19.217",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "89.38.101.89",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "154.16.156.104",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "191.96.93.231",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     },
     {
       "name": "Me",
       "id": "154.215.14.93",
       "keys": "MRB:GS5112T",
-      "version": "2.2.2"
+      "version": "2.2.3"
     }
   ]
 }
