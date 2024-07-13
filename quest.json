@@ -2,6 +2,12 @@
   "version": "2.2.3",
   "ip": [
     {
+      "id": "147.50.229.133",
+      "name": "SS-DEV",
+      "version": "2.2.3",
+      "keys": "MRB:GS5112T"
+    },
+    {
       "id": "103.216.159.39",
       "name": "SS-DEV",
       "version": "2.2.3",
